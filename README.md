@@ -12,7 +12,7 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 - CSS
 
 ## Screenshots
-![Portfolio Home](images/PratikK.jpeg)
+PratikK.jpeg
 
 ## How to Run
 Open `Protfolio.html` in your browser.
