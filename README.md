@@ -11,9 +11,6 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 - HTML
 - CSS
 
-## Screenshots
-PratikK.jpeg
-
 ## How to Run
 Open `Protfolio.html` in your browser.
 
